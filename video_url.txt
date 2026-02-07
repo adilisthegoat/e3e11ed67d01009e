@@ -1,0 +1,5 @@
+Player URL:
+https://adilisthegoat.github.io/player/?list=https://raw.githubusercontent.com/adilisthegoat/e3e11ed67d01009e/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/adilisthegoat/e3e11ed67d01009e/refs/heads/master/github_master.m3u8
